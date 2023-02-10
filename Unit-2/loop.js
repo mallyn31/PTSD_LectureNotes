@@ -64,7 +64,7 @@ console.log(sum);
 
 let student = {
     name: "Peter",
-    awesome: true;
+    awesome: true,
     degree: "JavaScript"
 };
 
