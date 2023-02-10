@@ -132,3 +132,4 @@ while (accounts[`acct${count}`] == false);
 
 // Finish message
 console.log(`All accounts are now active.`);
+console.log(accounts);
